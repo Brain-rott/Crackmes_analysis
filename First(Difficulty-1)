@@ -1,0 +1,12 @@
+I can't upload the crackme directly, Cause it was not made by me.
+Link - https://crackmy.app/crackmes/nagged-crack-me-by-cromaxx-by-crackmes-de-87135
+
+How to solve-
+              First, download and run the executable.
+              Then, find the Used String, by Window -> Defined String(in Ghidra)
+              Then, Go to the address were this string has been used( There you can find the logic code of the crackme)
+              Then, Understand the logic, Here We will see a comparison and then using this comparison jumped to a specific function.
+              Then, Patch this code according to your understanding,
+              Now save and RUN.
+
+Congrats! You solved it
