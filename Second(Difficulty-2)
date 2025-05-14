@@ -1,0 +1,12 @@
+here is the link of the crackme -https://crackmes.one/crackme/5e9f4e8033c5d476117463a9
+Arch-x86
+
+Password Bypass.
+
+How to Solve:  
+            Go to the String refference and analyse.
+            patch the JNZ to JZ
+
+You can patch as your understanding.
+
+Congratulation !!! You have done.
