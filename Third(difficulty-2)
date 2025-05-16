@@ -1,0 +1,10 @@
+Link - https://crackmes.one/crackme/5e5b9aaa33c5d4439bb2dd17
+This is very easy crackme of arch-x86 Windows.
+hints:- identify strings used 
+        go to refference
+        see the logic 
+        a string is compareing with your input
+        identify the string by hex code inserted in the specific location (string stored in little endian format)
+        give the required input 
+
+congrats! you solved it!
