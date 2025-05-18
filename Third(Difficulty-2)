@@ -1,0 +1,13 @@
+link - https://crackmes.one/crackme/60df882233c5d42814fb30a7
+arch- x86, Windows
+This Crackme was difficult for me , but it helped me to learn new thing.
+
+Hint:    besided "Password:" if you want to find logic from the reffernce of string you will not get the reffernce. Cause the "Success" and "Wrong" is used by ebp+offset .
+         If u want to start from "entry" you will get many system defined code which is not part of your concern.
+         for me best approach is dynamically run one by one instruction until u find the logic of printing "Password:"
+                                                    or,
+         go to the string refference of "Password" and use string refference until u go to the "entry"
+         then, find the function which is taking input.
+         then analyse the code.
+         u will not find direct comparision between required input and given input but the logic is obsficated.
+         if u dont want to reverse the code, u can still find it during dynamic analysis.
