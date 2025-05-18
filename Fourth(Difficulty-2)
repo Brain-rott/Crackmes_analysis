@@ -10,4 +10,4 @@ Hint:    besided "Password:" if you want to find logic from the reffernce of str
          then, find the function which is taking input.
          then analyse the code.
          u will not find direct comparision between required input and given input but the logic is obsficated.
-         if u dont want to reverse the code, u can still find it during dynamic analysis.
+         if u dont want to reverse the logic, u can still find it during dynamic analysis.
